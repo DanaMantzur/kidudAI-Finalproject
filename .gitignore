@@ -1,9 +1,5 @@
-# Ignore large media files
+# Ignore large video files (videos can be very large)
 *.mp4
-*.jpg
-*.jpeg
-*.png
-*.pdf
 
 # Ignore system files
 .DS_Store
